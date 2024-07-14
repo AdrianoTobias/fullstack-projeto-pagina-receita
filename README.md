@@ -28,7 +28,7 @@ $ cd fullstack-projeto-pagina-receita
 
 Para iniciá-lo:
 ```bash
-# Basta abrir o arquivo abaixo "index.html"
+# Basta abrir o arquivo "index.html"
 ```
 A página será aberta no browser.
 
